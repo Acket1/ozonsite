@@ -1,0 +1,8 @@
+{
+  "name": "Ozon Report Simulator",
+  "description": "Утилита для распределения остатков 1С по структуре отчета Ozon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
